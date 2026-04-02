@@ -16,6 +16,7 @@ public class HeloWorld {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Helo World");
+        System.out.println("Tambah baris ke dua");
     }
     
 }
